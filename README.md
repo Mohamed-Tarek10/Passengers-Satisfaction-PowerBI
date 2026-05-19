@@ -111,13 +111,3 @@ Refresh the dataset if needed
 
 This project provides a detailed analysis of airline passenger satisfaction, revealing how demographic factors, travel class, service quality, and delays influence the overall experience.
 The insights can help airlines improve service delivery, optimize customer experience, and boost satisfaction scores.
-
-# 🔮 Future Work
-
-Build a predictive model for satisfaction classification
-
-Create automated ETL pipelines
-
-Integrate real-time flight APIs
-
-Perform clustering for detailed passenger segmentation
